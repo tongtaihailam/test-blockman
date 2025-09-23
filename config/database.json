@@ -1,3 +1,4 @@
 {
- "databaseType": "mongodb+srv://Mykolnikov:<db_password>@blockmanvestaex.kjfpj.mongodb.net/?retryWrites=true&w=majority&appName=BlockmanVestaex"
+ "databaseType": "MongoDB Atlas",
+ "databaseUrl": "mongodb+srv://hailamlowkey_:<db_password>@cluster0.q7tlubz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 }
