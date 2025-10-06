@@ -7,7 +7,7 @@ const app = express();
 app.use(bodyParser.json());
 
 // Kết nối MongoDB
-mongoose.connect("mongodb://localhost:27017/blockmango", {
+mongoose.connect("mongodb://0.0.0.0:27017/blockmango", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
