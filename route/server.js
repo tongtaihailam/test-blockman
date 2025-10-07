@@ -81,5 +81,5 @@ app.post("/login", async (req, res) => {
 // ======= Khởi chạy server =======
 //
 app.listen(3000, () => {
-  console.log("Server đang chạy tại http://localhost:3000");
+  console.log("Server đang chạy tại https://test-blockman.vercel.app");
 });
