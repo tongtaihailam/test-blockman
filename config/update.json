@@ -80,7 +80,7 @@
         "forcible": "update"
       }
     },
-    "forceUpdate": false,
+    "forceUpdate": true,
     "newVersionCode": 300000,
     "smallerThanVersion": 7.0,
     "forceUpdateMinVersionCode": 1.0,
